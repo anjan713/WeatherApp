@@ -1,4 +1,10 @@
-# timeimage
+# WeatherApp
+
+![Pub Version](https://img.shields.io/pub/v/http?label=http)
+<a href="https://github.com/felangel/bloc"><img src="https://tinyurl.com/bloc-library" alt="Bloc Library"></a>
+![Pub Version](https://img.shields.io/pub/v/flare_flutter?color=green&label=flare_flutter)
+
+
 
 Developed an app which fetches data from openweatherapi and displays it to the user state management used for this app is Bloc 
 When the app gets loaded the inital screen shows the image based on time whether it is morning, afternoon, night,
